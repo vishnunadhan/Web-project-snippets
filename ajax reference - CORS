@@ -1,0 +1,10 @@
+https://github.com/MoonScript/jQuery-ajaxTransport-XDomainRequest
+
+
+cors support -   http://caniuse.com/cors
+
+
+xdomainrequest test - http://jsfiddle.net/rwaldron/Lrx6q/
+
+
+http://mike-ward.net/blog/post/00660/force-jquery-1-5-to-always-allow-cross-site-scripting
