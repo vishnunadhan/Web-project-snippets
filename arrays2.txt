@@ -1,0 +1,33 @@
+{
+  "aaData": [
+    [
+      "row 1 col 1 data",
+      "row 1 col 2 data",
+      "row 1 col 3 data",
+      "row 1 col 4 data"
+    ],
+    [
+      "row 2 col 1 data",
+      "row 2 col 2 data",
+      "row 2 col 3 data",
+      "row 2 col 4 data"
+    ],
+    [
+      "row 3 col 1 data",
+      "row 3 col 2 data",
+      "row 3 col 3 data",
+      "row 3 col 4 data"
+    ],
+    [
+      "row 4 col 1 data",
+      "row 4 col 2 data",
+      "row 4 col 3 data",
+      "row 4 col 4 data"
+    ],[
+      "row 4 col 1 data",
+      "row 4 col 2 data",
+      "row 4 col 3 data",
+      "row 4 col 4 data"
+    ]
+  ]
+}
